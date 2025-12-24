@@ -1,5 +1,7 @@
 # 降低人工智能顾问中的对齐债务：对话即挖掘 (DaE) 框架
 
+**中文** | [**English**](./README.md)
+
 ![License](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 

@@ -1,5 +1,7 @@
 # Reducing Alignment Debt in AI Advisory: The Dialogue-as-Elicitation (DaE) Framework
 
+[**中文**](./README_CN.md) | **English**
+
 ![License](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 
