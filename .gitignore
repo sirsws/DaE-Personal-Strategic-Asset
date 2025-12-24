@@ -40,7 +40,7 @@ ENV/
 *.synctex.gz
 *.pdf
 # Exception for papers
-!papers/dae_ssrn.pdf
+!papers/*.pdf
 
 # Editor
 .vscode/
