@@ -1,36 +1,31 @@
-# 降低人工智能顾问中的对齐债务：对话即挖掘 (DaE) 框架
+# DaE 研究仓
 
-**中文** | [**English**](./README.md)
+**这个仓库现在作为 AKM 结构下 DaE 的历史公开研究仓存在。**
 
-![License](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
+如果你第一次进入这条线，请先从 AKM 母港开始：
 
-## 摘要 (Abstract)
+- **AKM 母港：** https://github.com/sirsws/akm
+- **AKM 中的 DaE 分支：** https://github.com/sirsws/akm/tree/main/branches/dae
 
-在新兴的人工智能顾问服务市场中，用户与 AI 代理之间存在着根本性的“委托-代理问题”。用户受困于“粘性信息”，使得通过临时的提示词工程来传递隐性的偏好变得昂贵且低效。这种摩擦导致了“对齐债务”。我们提出了“对话即挖掘”(Dialogue-as-Elicitation, DaE) 机制，将对齐过程从“事后修正”转变为“事前挖掘”。DaE 采用双代理架构来构建“个人战略资产”——一种结构化的、可复用的用户属性账本。
+## 这个仓库现在的角色
 
-## 仓库内容 (Repository Contents)
+这个仓库保留 DaE 的历史论文资产与研究源文件。
 
-*   `src/dae_minimal_prompt.txt`: 用于挖掘代理和应用代理的操作性最小提示词。
-*   `papers/`:
-    *   `dae_ssrn.pdf`: **SSRN 版本** (侧重：管理学、对齐债务与经济机制)。
-    *   `dae_arxiv_draft.pdf`: **ArXiv 草稿** (侧重：技术实现与工程框架)。
+它不再承担顶层母概念入口。
+这个角色已经转移到 AKM。
 
-## 使用说明 (How to Use)
+## 推荐阅读路径
 
-**操作指南**：将 `src/dae_minimal_prompt.txt` 的内容复制到任何主流大语言模型（GPT-4, Claude 3.5, DeepSeek 等）中，以初始化挖掘代理。
+1. AKM 母港：https://github.com/sirsws/akm
+2. DaE 分支入口：https://github.com/sirsws/akm/tree/main/branches/dae
+3. 本仓用于查看历史论文资产与研究脉络
 
-## 引用 (Citation)
+## 范围
 
-```bibtex
-@article{shao2025dae,
-  title={Reducing Alignment Debt in AI Advisory: The Dialogue-as-Elicitation Approach},
-  author={Shao, Weishi},
-  journal={SSRN},
-  year={2025}
-}
-```
+- 历史 DaE 论文资产
+- 研究型源文件
+- DaE 路线的归档参考
 
-## 联系方式 (Contact)
+## 一句话总结
 
-1983sirsws@gmail.com
+DaE 研究线现在归入 AKM 母港结构，本仓继续作为历史论文/研究归档仓存在。
