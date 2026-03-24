@@ -1,31 +1,40 @@
 # DaE Research Repository
 
-**This repository now serves as the legacy public research repository for DaE under the AKM structure.**
+<p align="center">
+  <a href="./README.md">English</a> | <a href="./README_CN.md">简体中文</a>
+</p>
 
-If you are new here, start with the AKM mother hub:
+<p align="center">
+  <a href="https://github.com/sirsws/akm"><img src="https://img.shields.io/badge/AKM-mother%20hub-0969da" alt="AKM" /></a>
+  <a href="https://github.com/sirsws/akm/tree/main/branches/dae/paper"><img src="https://img.shields.io/badge/paper-DaE%20branch-1f6feb" alt="DaE Paper" /></a>
+  <img src="https://img.shields.io/badge/repository-legacy%20research%20archive-2da44e" alt="Repository Role" />
+</p>
+
+**Legacy public research assets for the DaE line under the AKM structure.**
+
+## Quick Links
 
 - **AKM mother hub:** https://github.com/sirsws/akm
 - **DaE branch in AKM:** https://github.com/sirsws/akm/tree/main/branches/dae
+- **DaE paper entry in AKM:** https://github.com/sirsws/akm/tree/main/branches/dae/paper
+- **AKM paper entry:** https://github.com/sirsws/akm/tree/main/papers/akm
 
-## Current role of this repository
+## Repository Role
 
-This repository keeps the historical DaE research assets, including paper files and source material.
-
-It no longer serves as the top-level concept home.
-That role has moved to AKM.
-
-## Reading path
-
-1. AKM mother hub: https://github.com/sirsws/akm
-2. DaE branch entry: https://github.com/sirsws/akm/tree/main/branches/dae
-3. This repository for legacy paper assets and research history
+This repository keeps the historical DaE paper assets, source material, and research traces.
+It is now the archive layer for the DaE line rather than the top-level method home.
 
 ## Scope
 
 - historical DaE paper assets
 - research-oriented source files
-- archival reference for the DaE line
+- archival reference for the DaE branch
 
-## One-line summary
+## Best Use
 
-DaE research now lives under the AKM mother-hub structure, and this repository remains as its legacy paper/archive repository.
+Use this repository when you need legacy paper files or archival research context.
+Use the AKM mother hub when you need the current framework narrative and canonical entry path.
+
+## One-Line Summary
+
+This repository preserves the DaE research history while AKM serves as the current framework home.
