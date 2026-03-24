@@ -1,36 +1,31 @@
-# Reducing Alignment Debt in AI Advisory: The Dialogue-as-Elicitation (DaE) Framework
+# DaE Research Repository
 
-[**中文**](./README_CN.md) | **English**
+**This repository now serves as the legacy public research repository for DaE under the AKM structure.**
 
-![License](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen.svg)
+If you are new here, start with the AKM mother hub:
 
-## Abstract
+- **AKM mother hub:** https://github.com/sirsws/akm
+- **DaE branch in AKM:** https://github.com/sirsws/akm/tree/main/branches/dae
 
-In the emerging market of AI advisory services, a fundamental Principal-Agent Problem exists between users and AI agents. Users suffer from "sticky information," making it expensive to transfer tacit preferences via ad-hoc prompting. This friction results in "Alignment Debt." We propose Dialogue-as-Elicitation (DaE), a mechanism that shifts alignment from ex-post correction to ex-ante elicitation. DaE employs a dual-agent architecture to construct a "Personal Strategic Asset"—a structured, reusable ledger of user attributes.
+## Current role of this repository
 
-## Repository Contents
+This repository keeps the historical DaE research assets, including paper files and source material.
 
-*   `src/dae_minimal_prompt.txt`: The operational minimal prompt for the Elicitation and Application agents.
-*   `papers/`:
-    *   `dae_ssrn.pdf`: **SSRN Version** (Focus: Management, Alignment Debt, & Economic Mechanism).
-    *   `dae_arxiv_draft.pdf`: **ArXiv Draft** (Focus: Technical Implementation & Engineering Framework).
+It no longer serves as the top-level concept home.
+That role has moved to AKM.
 
-## How to Use
+## Reading path
 
-**Instruction**: Copy the content of `src/dae_minimal_prompt.txt` into any mainstream LLM (GPT-4, Claude 3.5, etc.) to initialize the Elicitation Agent.
+1. AKM mother hub: https://github.com/sirsws/akm
+2. DaE branch entry: https://github.com/sirsws/akm/tree/main/branches/dae
+3. This repository for legacy paper assets and research history
 
-## Citation
+## Scope
 
-```bibtex
-@article{shao2025dae,
-  title={Reducing Alignment Debt in AI Advisory: The Dialogue-as-Elicitation Approach},
-  author={Shao, Weishi},
-  journal={SSRN},
-  year={2025}
-}
-```
+- historical DaE paper assets
+- research-oriented source files
+- archival reference for the DaE line
 
-## Contact
+## One-line summary
 
-1983sirsws@gmail.com
+DaE research now lives under the AKM mother-hub structure, and this repository remains as its legacy paper/archive repository.
