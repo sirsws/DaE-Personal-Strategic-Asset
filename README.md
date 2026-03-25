@@ -1,40 +1,49 @@
+﻿<!--
+File: README.md
+Core: Public landing page for the legacy DaE research repository, now positioned as the archive layer for the DaE paper line inside the AKM structure.
+Input: AKM mother-hub relationship, original DaE paper line, legacy PDF assets, and current public reading path.
+Output: English README suitable for the legacy DaE research repository.
+-->
+
 # DaE Research Repository
 
 <p align="center">
   <a href="./README.md">English</a> | <a href="./README_CN.md">简体中文</a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/sirsws/akm"><img src="https://img.shields.io/badge/AKM-mother%20hub-0969da" alt="AKM" /></a>
-  <a href="https://github.com/sirsws/akm/tree/main/branches/dae/paper"><img src="https://img.shields.io/badge/paper-DaE%20branch-1f6feb" alt="DaE Paper" /></a>
-  <img src="https://img.shields.io/badge/repository-legacy%20research%20archive-2da44e" alt="Repository Role" />
-</p>
+DaE remains the original research line for the first complete branch implementation of **Active Knowledge Modeling (AKM)** in persona and advisory collaboration.
 
-**Legacy public research assets for the DaE line under the AKM structure.**
+This repository should now be understood as the **legacy public research archive** for the DaE line, while the current framework entry lives in the AKM mother hub.
 
 ## Quick Links
 
 - **AKM mother hub:** https://github.com/sirsws/akm
 - **DaE branch in AKM:** https://github.com/sirsws/akm/tree/main/branches/dae
 - **DaE paper entry in AKM:** https://github.com/sirsws/akm/tree/main/branches/dae/paper
-- **AKM paper entry:** https://github.com/sirsws/akm/tree/main/papers/akm
+- **AKM mother paper:** https://github.com/sirsws/akm/tree/main/papers/akm
 
-## Repository Role
+## What this repository preserves
 
-This repository keeps the historical DaE paper assets, source material, and research traces.
-It is now the archive layer for the DaE line rather than the top-level method home.
+- original public PDF assets for the DaE paper line
+- research-oriented source material and prompts
+- a stable archival reference for the pre-AKM publication history
 
-## Scope
+## Original Public Paper Variants
 
-- historical DaE paper assets
-- research-oriented source files
-- archival reference for the DaE branch
+- **arXiv-style draft:** *Dialogue as Elicitation: Building High-Fidelity Personas for Personalized AI Advisors with LLMs*
+- **SSRN version:** *Reducing Alignment Debt in AI Advisory: The Dialogue-as-Elicitation Approach*
 
-## Best Use
+## Public Files in This Repository
 
-Use this repository when you need legacy paper files or archival research context.
-Use the AKM mother hub when you need the current framework narrative and canonical entry path.
+- `./papers/dae_ssrn.pdf`
+- `./papers/dae_arxiv_draft.pdf`
+- `./src/dae_minimal_prompt.txt`
+
+## Role in the AKM Structure
+
+AKM now provides the canonical method frame.
+This repository preserves the historical DaE research line and keeps the original paper assets publicly reachable.
 
 ## One-Line Summary
 
-This repository preserves the DaE research history while AKM serves as the current framework home.
+This repository preserves the DaE paper history; AKM provides the current framework home.
